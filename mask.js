@@ -1,4 +1,3 @@
-// масска ввода номера телефона на нативном JS
 const mask = (selector) => {
 
     let setCursorPosition = (pos, elem) => {
